@@ -22,8 +22,8 @@ This GitHub profile is where I share:
 
 If you're into data, tech, or just curious to chat—feel free to connect!
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Kaggle: [kaggle.com/yourprofile](https://kaggle.com/yourprofile)  
+- Email: kohnqui@gmail.com 
+- LinkedIn: www.linkedin.com/in/randolf-salayo-216893361
+- Kaggle:https://www.kaggle.com/randolfsalayo
 
 Thanks for stopping by.
