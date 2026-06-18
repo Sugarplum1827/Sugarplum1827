@@ -1,29 +1,61 @@
-Hi, I'm SugarPlum
+Hello! I’m Jacob Randolf Salayo 👋
 
-Welcome to my GitHub profile!
+I’m a Computer Science student from the Philippines passionate about Data Analytics, Machine Learning, Financial Analytics, and Software Development.
 
-I'm a Machine Learning and Data Science enthusiast based in the Philippines. I enjoy turning raw data into meaningful insights, building models that solve real problems, and exploring new tools and techniques in the data world.
+I enjoy transforming raw data into meaningful insights, building intelligent systems, and creating solutions that solve real-world problems. I’m constantly learning new technologies and exploring opportunities to improve my skills in analytics, AI, and software engineering.
 
-I'm currently focused on:
+My interests include Data Science, Machine Learning, Quantitative Finance, OSINT, Automation, and Full-Stack Development.
 
-- Exploring data with Python, R, C++, and SQL
-- Building dashboards and visualizations using Looker and Excel
-- Developing machine learning models for classification and prediction
-- Automating workflows and reporting tasks to save time and improve accuracy
 
-I’m always curious and constantly learning—especially in areas like machine learning, OSINT, financial analytics, and deep learning.
 
-This GitHub profile is where I share:
+📬 Connect With Me
 
-- Personal data projects
-- Learning experiments in machine learning and analytics
-- Scripts and tools for data automation
-- Clean, reproducible code with a focus on clarity and impact
+* 📧 Email: jacobrandolfsalayo@gmail.com
+* 💼 LinkedIn: www.linkedin.com/in/jacob-randolf-salayo-216893361
+* 🏆 Kaggle: www.kaggle.com/randolfsalayo
 
-If you're into data, tech, or just curious to chat—feel free to connect!
+⸻
 
-- Email: kohnqui@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/jacob-randolf-salayo-216893361/
-- Kaggle: https://www.kaggle.com/randolfsalayo
+💻 Tech Stack
 
-Thanks for stopping by.
+📊 Data Analytics & Machine Learning
+
+💻 Development
+
+🗄️ Databases
+
+⚙️ Tools & Platforms
+
+⸻
+
+🚀 Currently Learning
+
+* Machine Learning & Deep Learning
+* Quantitative Finance
+* Data Engineering
+* Financial Analytics
+* Cloud Technologies
+* Advanced Data Visualization
+
+⸻
+
+📂 Featured Areas
+
+* 📊 Data Analytics Projects
+* 🤖 Machine Learning Models
+* 📈 Business Intelligence Dashboards
+* ⚙️ Automation & ETL Pipelines
+* 💹 Financial & Quantitative Analysis
+* 🔍 OSINT Research Tools
+
+⸻
+
+📊 GitHub Stats
+
+⸻
+
+💡 Motto
+
+“Turning data into decisions and ideas into solutions.”
+
+Replace YOUR_USERNAME with your GitHub username and the stats cards will work automatically. This style is modern, recruiter-friendly, and fits your goal of becoming a Data Analyst, Machine Learning Engineer, or Quantitative Analyst.
