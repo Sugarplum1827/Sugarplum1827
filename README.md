@@ -1,61 +1,65 @@
-Hello! I’m Jacob Randolf Salayo 👋
+# Hello! I'm Jacob Randolf Salayo 👋
 
-I’m a Computer Science student from the Philippines passionate about Data Analytics, Machine Learning, Financial Analytics, and Software Development.
+I'm currently a **Computer Science student** passionate about **Data Analytics, Machine Learning, Financial Analytics, and Software Development**. I enjoy transforming raw data into meaningful insights, building intelligent systems, and solving real-world problems through technology.
 
-I enjoy transforming raw data into meaningful insights, building intelligent systems, and creating solutions that solve real-world problems. I’m constantly learning new technologies and exploring opportunities to improve my skills in analytics, AI, and software engineering.
+I'm a lifelong learner who enjoys exploring new technologies, improving analytical thinking, and developing projects that create impact. My interests include data science, artificial intelligence, quantitative finance, automation, OSINT, and full-stack development.
 
-My interests include Data Science, Machine Learning, Quantitative Finance, OSINT, Automation, and Full-Stack Development.
+---
 
+## 📬 How to Reach Me / 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-randolf-salayo-216893361/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/randolfsalayo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobrandolfsalayo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet?style=for-the-badge)](https://galaxyonfire.vercel.app)
 
-📬 Connect With Me
+---
 
-* 📧 Email: jacobrandolfsalayo@gmail.com
-* 💼 LinkedIn: www.linkedin.com/in/jacob-randolf-salayo-216893361
-* 🏆 Kaggle: www.kaggle.com/randolfsalayo
+# 💻 Tech Stack
 
-⸻
+## 📊 Data Analytics & Machine Learning
 
-💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-📊 Data Analytics & Machine Learning
+## 💻 Programming & Development
 
-💻 Development
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-🗄️ Databases
+## 🗄️ Databases & Analytics
 
-⚙️ Tools & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-⸻
+## 🛠️ Tools & Platforms
 
-🚀 Currently Learning
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-* Machine Learning & Deep Learning
-* Quantitative Finance
-* Data Engineering
-* Financial Analytics
-* Cloud Technologies
-* Advanced Data Visualization
+# 🚀 Current Focus
 
-⸻
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & Deep Learning
+- 💹 Financial Analytics & Quantitative Research
+- ⚙️ Data Automation & ETL Pipelines
+- 🔍 OSINT Research & Data Collection
+- 🌐 Full-Stack Development
 
-📂 Featured Areas
+### 👀 Profile Views
 
-* 📊 Data Analytics Projects
-* 🤖 Machine Learning Models
-* 📈 Business Intelligence Dashboards
-* ⚙️ Automation & ETL Pipelines
-* 💹 Financial & Quantitative Analysis
-* 🔍 OSINT Research Tools
+![](https://visitcount.itsvg.in/api?id=Sugarplum1827&icon=5&color=6)
 
-⸻
-
-📊 GitHub Stats
-
-⸻
-
-💡 Motto
-
-“Turning data into decisions and ideas into solutions.”
-
-Replace YOUR_USERNAME with your GitHub username and the stats cards will work automatically. This style is modern, recruiter-friendly, and fits your goal of becoming a Data Analyst, Machine Learning Engineer, or Quantitative Analyst.
+> *"Turning data into decisions and ideas into solutions."*
